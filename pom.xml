@@ -15,11 +15,11 @@
     </build>
 
     <groupId>io.codementor.calvin</groupId>
-    <artifactId>calvin-spark-assignment</artifactId>
+    <artifactId>calvin-spark-project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>calvin-spark-assignment</name>
+    <name>calvin-spark-project</name>
     <url>http://maven.apache.org</url>
 
     <properties>
